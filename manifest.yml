@@ -1,0 +1,4 @@
+applications:
+- name: ELUX_CATIA
+  random-route: true
+  memory: 128M
